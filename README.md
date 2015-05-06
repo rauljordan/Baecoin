@@ -1,10 +1,9 @@
 Baecoin integration/staging tree
 ================================
 
-http://www.baecoin.org
+http://http://rauljordan.github.io/Baecoin/
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Raul E. Jordan, Inspired by Hajin Park
 
 What is Baecoin?
 ----------------
