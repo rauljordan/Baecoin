@@ -1,4 +1,4 @@
-Baecoin integration/staging tree
+Baecoin: Cryptocurrency for Couples
 ================================
 
 http://rauljordan.github.io/Baecoin/
