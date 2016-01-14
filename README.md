@@ -3,7 +3,7 @@ Baecoin integration/staging tree
 
 http://rauljordan.github.io/Baecoin/
 
-Raul E. Jordan, Inspired by Hajin Park
+Raul E. Jordan
 
 What is Baecoin?
 ----------------
